@@ -5,7 +5,7 @@ const Form = () => {
   const [hasError, setHasError] = useState(false);
 
   useEffect(() => {
-    console.log("Adding to test gh actions");
+    console.log("Adding to test all gh actions");
   }, []);
   
   const handleSubmit = e => {
